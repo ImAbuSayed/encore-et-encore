@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/encore-et-encore/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Encore Et Encore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/encore-et-encore/) |
+| **Get License** | [Official Music Licensing for Encore Et Encore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/encore-et-encore/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a3d9737f0766c29ea5d83fd7a0723380d1b670dc3d40fcb10d1850c56eaaddcb` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
