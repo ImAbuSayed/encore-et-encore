@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/encore-et-encore/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Encore Et Encore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/encore-et-encore/) |
+| **Get License** | [Obtain a Music License for Encore Et Encore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/encore-et-encore/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'ai le cœur qui bat fort quand tu rentres dans la danse
+> Ton parfum de mystère, baby, c'est une évidence
+> Sous les néons de la ville, je veux voler ton cœur
+> On va vibrer toute la nuit, let's ride avec douceur
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
